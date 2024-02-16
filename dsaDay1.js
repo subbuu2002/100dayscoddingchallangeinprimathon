@@ -5,6 +5,6 @@ const num = prompt("Enter a number: ");
 if(num % 2 == 0) 
     console.log("The number is Even.");
 
-// if the number is odd
+// if the number is odd and
 else 
     console.log("The number is odd.");
